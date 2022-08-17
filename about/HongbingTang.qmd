@@ -1,0 +1,37 @@
+---
+title: "Hongbing Tang"
+image: images/HongbingTang.png
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: images/HongbingTang.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/HTang8868
+---
+
+## Education/Work Background
+
+I have B. Arch, MLA and MRP degrees. Licensed landscape architect and adjunct instructor, current PhD Student in Regional Planning at UMass
+
+## R experience
+
+I took a UWW R class with Prof. Sean Convay earlier this summer. I had no coding experience prior to the class. 
+
+## Research interests
+
+Green infrastructure, landscape architecture, community engagement, social media
+
+## Hometown
+
+A native of Beijing, currently living in the Greater Boston area
+
+## Hobbies
+
+drawing, painting, biking, swimming
+
+## Fun fact
+
+I create both traditional watercolor on paper and digital watercolor on iPad
